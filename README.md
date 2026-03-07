@@ -16,9 +16,9 @@
 
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
-- **Dub Engine**: Specialized in deep, resonant chords with high-feedback delay and atmospheric reverb.
+- **Dub Engine**: Deep, resonant chords with high-feedback delay and atmospheric reverb.
 - **Standalone Mode**: Runs as a native application on macOS (Sonoma, Sequoia, Tahoe) without a browser.
-- **Graphical DSP**: Real-time visual feedback powered by a 3D Singularity (Black Hole) simulation.
+- **Graphical DSP**: Real-time visual feedback 3D Singularity (Black Hole) simulation.
 - **VST Integration**: Compatible with Ableton Live 12 and other major DAWs via WebView-based VST wrappers.
 - **Zero Dependencies**: Fully offline capable. No internet connection required.
 - **Minimalist UI**: Dark-themed, high-contrast interface optimized for low-light studio environments.
