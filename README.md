@@ -28,7 +28,7 @@
 ## System Requirements
 
 - **macOS**: 14.0 (Sonoma), 15.0 (Sequoia), or 16.0 (Tahoe).
-- **Architecture**: Intel & Apple Silicon
+- **Architecture**: Intel & Apple Silicon.
 - **DAW**: Ableton Live 12+ (for VST usage).
 
 ---
