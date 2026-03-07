@@ -9,7 +9,7 @@
 
 ---
 
-https://github.com/user-attachments/assets/264a5c15-492f-47bf-b5f2-8f06dd9ffea0
+<img width="1433" height="886" alt="Dub Chords Preview" src="https://github.com/user-attachments/assets/ed5dec7c-80d8-410c-9600-e686c05637b8" />
 
 ---
 
