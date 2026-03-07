@@ -38,7 +38,7 @@
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
 1. Download the latest `Dubchords.dmg`.
 2. Drag to your Applications folder.
-3. Open and start playing.
+3. Open `Dub Chords`. Enjoy your travel through the blackhole.
 
 ### 𝐕𝐒𝐓 (𝐀𝐛𝐥𝐞𝐭𝐨𝐧 𝟏𝟐)
 1. Copy `Dubchords.vst3` to `/Library/Audio/Plug-Ins/VST3`.
