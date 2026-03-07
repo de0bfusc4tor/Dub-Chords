@@ -5,10 +5,13 @@
 ![Format](https://img.shields.io/badge/Format-Standalone%20%7C%20VST3-blueviolet?style=flat-square)
 ![DAW](https://img.shields.io/badge/DAW-Ableton%20Live%2012%2B-000000?style=flat-square&logo=abletonlive&logoColor=white)
 
+---
+
 Dub Chords Synthesizer for deep atmospheres and cinematic textures.
 
-<img width="1433" height="717" alt="DubChords preview" src="https://github.com/user-attachments/assets/3527ff0d-9a52-470f-b964-3a04e84778b1" />
+<img width="1422" height="721" alt="DubChordsPreview" src="https://github.com/user-attachments/assets/168eea5f-a01f-42f7-a1d5-63c33c47b5fb" />
 
+---
 
 ## Features
 
@@ -19,11 +22,15 @@ Dub Chords Synthesizer for deep atmospheres and cinematic textures.
 - **Zero Dependencies**: Fully offline capable. No internet connection required after initial build.
 - **Minimalist UI**: Dark-themed, high-contrast interface optimized for low-light studio environments.
 
+---
+
 ## System Requirements
 
 - **macOS**: 14.0 (Sonoma), 15.0 (Sequoia), or 16.0 (Tahoe).
 - **Architecture**: Universal (Intel & Apple Silicon).
 - **DAW**: Ableton Live 12+ (for VST usage).
+
+---
 
 ## Installation
 
@@ -37,6 +44,8 @@ Dub Chords Synthesizer for deep atmospheres and cinematic textures.
 2. Rescan plugins in Ableton Live 12.
 3. Load Singularity onto a MIDI track.
 
+---
+
 ## Controls
 
 - **Base Note**: Select the root of your dub chords.
@@ -46,3 +55,5 @@ Dub Chords Synthesizer for deep atmospheres and cinematic textures.
 - **Delay/Reverb**: Create infinite space and rhythmic feedback.
 
 ---
+
+<p align="center"><code>Deobfuscate</code></p>
