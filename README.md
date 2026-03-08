@@ -1,6 +1,6 @@
 # 𝕯𝖚𝖇 𝕮𝖍𝖔𝖗𝖉𝖘
 
-> Dub Chords Synthesizer for Dub Techno Chords.
+> Dub Chords Synthesizer for Dub Techno Chords
 
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-Universal%20(Silicon%20%26%20Intel)-606060?style=flat-square)
@@ -9,7 +9,7 @@
 
 ---
 
-<img width="1433" height="886" alt="Dub Chords Preview" src="https://github.com/user-attachments/assets/ed5dec7c-80d8-410c-9600-e686c05637b8" />
+https://github.com/user-attachments/assets/46c2a56e-2ed0-4371-b0a2-7a5c9791596c
 
 ---
 
@@ -49,6 +49,9 @@
 
 ## 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐬
 
+- **Keybindings**:
+- Bottom Row: `,`, `z`, `x`, `c`, `v`, `b`, `n`, `m`(Lower Octave)
+- Middle Row: `a`, `w`, `s`, `e`, `d`, `f`, `t`, `g`, `y`, `h`, `u`, `j`, `k` (Standard Octave)
 - **Base Note**: Select the root of your dub chords.
 - **Voices**: Control the density of the chord (3 to 5 voices).
 - **Pitch**: Transpose the entire engine.
