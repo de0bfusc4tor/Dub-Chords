@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/589f0968-87ef-491d-857b-99ae53d00a9d
 ## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
-1. Download the latest [`Dub.chords.app.zip`](https://github.com/de0bfusc4tor/Dub-Chords/releases/tag/DubChords)
+1. Download the latest [`Dub.Chords.app.zip`](https://github.com/de0bfusc4tor/Dub-Chords/releases/tag/DubChords)
 2. Drag to your Applications folder.
 3. Open `Dub Chords`. Enjoy your travel through the blackhole.
 
