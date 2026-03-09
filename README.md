@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/589f0968-87ef-491d-857b-99ae53d00a9d
 2. Extract & Drag to your Applications folder.
 3. Open `Dub Chords`.
 
-### 𝐕𝐒𝐓 (𝐀𝐛𝐥𝐞𝐭𝐨𝐧 𝟏𝟐)
+### 𝐕𝐒𝐓𝟑 (𝐀𝐛𝐥𝐞𝐭𝐨𝐧 𝟏𝟐)
 1. Copy `Dubchords.vst3` to `/Library/Audio/Plug-Ins/VST3`.
 2. Rescan plugins in Ableton Live 12.
 3. Create a MIDI track.
