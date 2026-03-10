@@ -4,7 +4,7 @@
 
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-Universal%20(Silicon%20%26%20Intel)-606060?style=flat-square)
-![Format](https://img.shields.io/badge/Format-Standalone%20%7C%20VST3-blueviolet?style=flat-square)
+![Format](https://img.shields.io/badge/Format-Standalone%20%7C%20AU%20%7C%20VST3-blueviolet?style=flat-square)
 ![DAW](https://img.shields.io/badge/DAW-Ableton%20Live%2012%2B-000000?style=flat-square&logo=abletonlive&logoColor=white)
 
 ---
