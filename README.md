@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/589f0968-87ef-491d-857b-99ae53d00a9d
 
 - **Dub Engine**: Deep, resonant chords with high-feedback delay and atmospheric reverb.
 - **Standalone Mode**: Runs as a native application on macOS (Sonoma, Sequoia, Tahoe) without a browser.
-- **Graphical DSP**: Real-time visual feedback 3D Singularity (Black Hole) simulation for the Standalone.
+- **Graphical DSP**: Real-time visual feedback 3D Black Hole simulation for the Standalone.
 - **VST Integration**: Compatible with Ableton Live 12 and other major DAWs via WebView-based VST wrappers.
 - **Zero Dependencies**: Fully offline capable. No internet connection required.
 - **Minimalist UI**: Dark-themed, high-contrast interface optimized for low-light studio environments.
