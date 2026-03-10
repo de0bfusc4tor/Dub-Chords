@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/589f0968-87ef-491d-857b-99ae53d00a9d
 
 ---
 
-![dubchordsvst](https://github.com/user-attachments/assets/66743aaa-c8bf-44e3-8ffe-fe21527f2c0a)
+<img width="1440" height="868" alt="DubChordsplugin" src="https://github.com/user-attachments/assets/73dad5b4-34b5-495e-9f36-92459ee6fa17" />
 
 ---
 
