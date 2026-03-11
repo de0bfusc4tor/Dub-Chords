@@ -76,5 +76,9 @@ https://github.com/user-attachments/assets/589f0968-87ef-491d-857b-99ae53d00a9d
 
 ---
 
+Give it a ⭐ on GitHub if you liked the synthesizer.
+
+---
+
 <p align="center"><code>𝕯𝖊𝖔𝖇𝖋𝖚𝖘𝖈𝖆𝖙𝖊</code></p>
 <p align="center">2026</p>
