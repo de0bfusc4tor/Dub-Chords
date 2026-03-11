@@ -10,6 +10,10 @@
 
 ---
 
+_Dub Chords is a synthesizer for Dub Techno Chords & Stabs. It synthesizes minor-chords , resonant filtering, and rhythmic echoes to create deep Dub Techno textures and melodies._
+
+---
+
 https://github.com/user-attachments/assets/589f0968-87ef-491d-857b-99ae53d00a9d
 
 ---
