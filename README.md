@@ -1,16 +1,12 @@
 # 𝕯𝖚𝖇 𝕮𝖍𝖔𝖗𝖉𝖘
 
-> Dub Chords Synthesizer for Dub Techno Chords
+> _Dub Chords is a synthesizer for Dub Techno Chords & Stabs. It synthesizes minor-chords , resonant filtering, and rhythmic echoes to create deep Dub Techno textures and melodies._
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-green?style=flat-square)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-Universal%20Silicon%20%26%20Intel-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
 ![Format](https://img.shields.io/badge/Format-Standalone%20%7C%20AU%20%7C%20VST3-00CED1?style=flat-square)
 ![DAW](https://img.shields.io/badge/DAW-Ableton%20Live%2012%2B-000000?style=flat-square&logo=abletonlive&logoColor=white)
-
----
-
-_Dub Chords is a synthesizer for Dub Techno Chords & Stabs. It synthesizes minor-chords , resonant filtering, and rhythmic echoes to create deep Dub Techno textures and melodies._
 
 ---
 
