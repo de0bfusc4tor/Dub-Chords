@@ -1,6 +1,6 @@
 # 𝕯𝖚𝖇 𝕮𝖍𝖔𝖗𝖉𝖘
 
-> _Dub Chords is a synthesizer for Dub Techno Chords & Stabs. It synthesizes minor-chords , resonant filtering, and rhythmic echoes to create deep Dub Techno textures and melodies._
+> _Dub Chords is a synthesizer for Dub Techno Chords & Stabs. It synthesizes minor-chords, resonant filtering and rhythmic echoes to create deep Dub Techno textures and melodies._
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-green?style=flat-square)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/589f0968-87ef-491d-857b-99ae53d00a9d
 
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
 1. Download the latest [`Dub.Chords1.0.0.app.zip`](https://github.com/de0bfusc4tor/Dub-Chords/releases/download/DubChords1.0.0/DubChords1.0.0.app.zip)
-2. Extract & Drag to your Applications folder.
+2. Extract & Drag to your `Applications` folder.
 3. Open `Dub Chords`.
 
 ### 𝐀𝐮𝐝𝐢𝐨 𝐔𝐧𝐢𝐭 (𝐀𝐔) (𝐀𝐛𝐥𝐞𝐭𝐨𝐧 𝟏𝟐)
