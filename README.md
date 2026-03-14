@@ -18,11 +18,10 @@
 
 - **Dub Engine**: Deep, resonant chords with high-feedback delay and atmospheric reverb.
 - **Standalone**: Runs as a native application on macOS (Sonoma, Sequoia, Tahoe) without a browser.
-- **Graphical DSP**: Real-time visual feedback 3D Black Hole simulation for the Standalone.
 - **VST Integration (AU & VST3)**: Compatible with Ableton Live 12 and other major DAWs.
 - **Zero Dependencies**: Fully offline capable. No internet connection required.
 - **Minimalist UI**: Dark-themed, high-contrast interface optimized for low-light studio environments.
-
+- **Multi-Language Support**: Interface available in English, Français, Русский, 日本語, and 한국어 with the keyboards layouts and keybindings respective to each language.
 ---
 
 ## 𝐒𝐲𝐬𝐭𝐞𝐦 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬
@@ -36,18 +35,18 @@
 ## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
-1. Download the latest [`Dub.Chords1.0.0.app.zip`](https://github.com/de0bfusc4tor/Dub-Chords/releases/download/DubChords1.0.0/DubChords1.0.0.app.zip)
+1. Download the latest [`Dub.Chords1.0.1.app.zip`](https://github.com/de0bfusc4tor/Dub-Chords/releases/download/DubChords1.0.1/DubChords1.0.1.app.zip)
 2. Extract & Drag to your `Applications` folder.
 3. Open `Dub Chords`.
 
 ### 𝐀𝐮𝐝𝐢𝐨 𝐔𝐧𝐢𝐭 (𝐀𝐔) (𝐀𝐛𝐥𝐞𝐭𝐨𝐧 𝟏𝟐)
-1. Download the latest [`DubChords1.0.0.component.zip`](https://github.com/de0bfusc4tor/Dub-Chords/releases/download/DubChords1.0.0/DubChords1.0.0.component.zip)
+1. Download the latest [`DubChords.component.zip`](https://github.com/de0bfusc4tor/Dub-Chords/releases/download/DubChords1.0.1/DubChords.component.zip)
 2. Extract & Copy `Dubchords.component` to `/Library/Audio/Plug-Ins/Components`.
 3. Rescan plugins in Ableton Live 12.
 4. Create a MIDI track & Load `Dub Chords` onto the MIDI track begin playing.
 
 ### 𝐕𝐒𝐓𝟑 (𝐀𝐛𝐥𝐞𝐭𝐨𝐧 𝟏𝟐)
-1. Download the latest [`DubChords1.0.0.vst3.zip`](https://github.com/de0bfusc4tor/Dub-Chords/releases/download/DubChords1.0.0/DubChords1.0.0.vst3.zip)
+1. Download the latest [`DubChords.vst3.zip`](https://github.com/de0bfusc4tor/Dub-Chords/releases/download/DubChords1.0.1/DubChords.vst3.zip)
 2. Extract & Copy `Dubchords.vst3` to `/Library/Audio/Plug-Ins/VST3`.
 3. Rescan plugins in Ableton Live 12.
 4. Create a MIDI track & Load `Dub Chords` onto the MIDI track and begin playing.
@@ -60,18 +59,36 @@
 
 ## 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐬
 
-### 𝐐𝐖𝐄𝐑𝐓𝐘 𝐊𝐞𝐲𝐛𝐢𝐧𝐝𝐢𝐧𝐠𝐬
+### 𝐐𝐖𝐄𝐑𝐓𝐘 (𝐄𝐧𝐠𝐥𝐢𝐬𝐡) 𝐊𝐞𝐲𝐛𝐢𝐧𝐝𝐢𝐧𝐠𝐬 (Русский, 日本語 & 한국어 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞)
 
 | Row | Keys | Function |
 | :--- | :--- | :--- |
 | **Middle** | `A` `W` `S` `E` `D` `F` `T` `G` `Y` `H` `U` `J` `K` | Standard Octave Chords |
 | **Bottom** | `,` `Z` `X` `C` `V` `B` `N` `M` | Lower Octave Chords |
 
+- **Pitch**: Transpose the entire engine (-24 to +24 semitones).
+- **Vel Rand**: Adds organic velocity variation to triggered chords.
+- **Chance**: Probability of a chord triggering (0-100%).
 - **Base Note**: Select the root of your dub chords.
 - **Voices**: Control the density of the chord (3 to 5 voices).
-- **Pitch**: Transpose the entire engine.
-- **Cutoff/Reso**: Sculpt the character of the dub filter.
+- **Cutoff/Reso**: Sculpt the character of the resonant low-pass filter.
+- **Phaser**: Add swirling movement to the sound.
 - **Delay/Reverb**: Create infinite space and rhythmic feedback.
+
+### 𝐌𝐈𝐃𝐈 𝐂𝐥𝐢𝐩 𝐏𝐫𝐨𝐜𝐞𝐝𝐮𝐫𝐞 (𝐃𝐀𝐖 𝐔𝐬𝐚𝐠𝐞)
+
+1. Drag `DubChords` onto a new MIDI track.
+2. Double-click an empty slot in the track to create a MIDI clip.
+3. **Triggering Chords:** 
+- A single MIDI note will trigger a full dub chord based on your Voices** and Base Note settings.
+- For best results, use long sustained notes to let the delay and reverb tails breathe.
+4. **Recording Automation:** 
+- Enable `Automation Arm` in your DAW.
+- Move the knobs in the Dub Chords interface during playback. The movements will be recorded directly into your MIDI clip or arrangement.
+
+### 𝐏𝐚𝐫𝐚𝐦𝐞𝐭𝐞𝐫𝐬 𝐌𝐚𝐩𝐩𝐢𝐧𝐠 & 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧
+- **DAW Mapping**: All parameters (Cutoff, Feedback, Phaser, etc...) are exposed as standard VST/AU parameters. You can use Ableton's "Configure" mode to map them to your MIDI controller.
+- **MIDI Learn**: Right-click a parameter in the "Configure" list to assign it to a physical knob on your hardware.
 
 ---
 
