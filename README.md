@@ -90,8 +90,8 @@ _You can also download_ [`DubChords1.0.1.Standalone.AU.VST3.zip
 - Move the knobs in the Dub Chords interface during playback. The movements will be recorded directly into your MIDI clip or arrangement.
 
 ### 𝐏𝐚𝐫𝐚𝐦𝐞𝐭𝐞𝐫𝐬 𝐌𝐚𝐩𝐩𝐢𝐧𝐠 & 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧
-- **DAW Mapping**: All parameters (Cutoff, Feedback, Phaser, etc...) are exposed as standard VST/AU parameters. You can use Ableton's "Configure" mode to map them to your MIDI controller.
-- **MIDI Learn**: Right-click a parameter in the "Configure" list to assign it to a physical knob on your hardware.
+- **DAW Mapping**: All parameters (Cutoff, Feedback, Phaser, etc...) are exposed as standard VST/AU parameters. You can use Ableton's `Configure` mode to map them to your MIDI controller.
+- **MIDI Learn**: Right-click a parameter in the `Configure` list to assign it to a physical knob on your hardware.
 
 ---
 
