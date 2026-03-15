@@ -105,7 +105,7 @@ _You can also check [Releases](https://github.com/de0bfusc4tor/Dub-Chords/releas
 
 ---
 
-_This software and plugins are free. Don't forget to give it ⭐ on Github if you liked the project._
+_This software and plugins are free. Don't forget to give it a ⭐ on Github if you liked the project._
 
 ---
 
