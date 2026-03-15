@@ -96,5 +96,9 @@ _You can also download_ [`DubChords1.0.1.Standalone.AU.VST3.zip
 
 ---
 
+_This software and plugins are free. Don't forget to give a ⭐ on Github if you liked it._
+
+---
+
 <p align="center"><code>𝕯𝖊𝖔𝖇𝖋𝖚𝖘𝖈𝖆𝖙𝖊</code></p>
 <p align="center">2026</p>
