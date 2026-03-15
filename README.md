@@ -64,7 +64,7 @@ _You can also check [Releases](https://github.com/de0bfusc4tor/Dub-Chords/releas
 
 ## 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐬
 
-### 𝐐𝐖𝐄𝐑𝐓𝐘 (𝐄𝐧𝐠𝐥𝐢𝐬𝐡) 𝐊𝐞𝐲𝐛𝐢𝐧𝐝𝐢𝐧𝐠𝐬 (Русский, 日本語 & 한국어 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞)
+### 𝐐𝐖𝐄𝐑𝐓𝐘 (𝐄𝐧𝐠𝐥𝐢𝐬𝐡) 𝐊𝐞𝐲𝐛𝐢𝐧𝐝𝐢𝐧𝐠𝐬 (𝐅𝐫𝐞𝐧𝐜𝐡, Русский, 日本語 & 한국어 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞)
 
 |    | Key Mapping & Notes |
 | :--- | :--- |
