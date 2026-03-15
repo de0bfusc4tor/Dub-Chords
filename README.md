@@ -54,7 +54,7 @@
 _You can download [`DubChords1.0.1.Standalone.AU.VST3.zip
 `](https://github.com/de0bfusc4tor/Dub-Chords/releases/download/DubChords1.0.1/DubChords1.0.1.Standalone.AU.VST3.zip) with everything already inside._
 
-_You can also check [Releases](https://github.com/de0bfusc4tor/Dub-Chords/releases/tag/DubChords1.0.1)_
+_You can also check [Releases](https://github.com/de0bfusc4tor/Dub-Chords/releases/tag/DubChords1.0.1)._
 
 ---
 
