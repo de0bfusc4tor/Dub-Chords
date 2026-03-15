@@ -64,10 +64,11 @@ _You can also download_ [`DubChords1.0.1.Standalone.AU.VST3.zip
 
 ### 𝐐𝐖𝐄𝐑𝐓𝐘 (𝐄𝐧𝐠𝐥𝐢𝐬𝐡) 𝐊𝐞𝐲𝐛𝐢𝐧𝐝𝐢𝐧𝐠𝐬 (Русский, 日本語 & 한국어 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞)
 
-| Row | Keys | Function |
-| :--- | :--- | :--- |
-| **Middle** | `A` `W` `S` `E` `D` `F` `T` `G` `Y` `H` `U` `J` `K` | Standard Octave Chords |
-| **Bottom** | `,` `Z` `X` `C` `V` `B` `N` `M` | Lower Octave Chords |
+|    | Key Mapping & Notes |
+| :--- | :--- |
+| **Top** | `Q`: D#4 \| `W`: E4 \| `E`: F4 \| `R`: F#4 \| `T`: G4 \| `Y`: G#4 \| `U`: A4 \| `I`: A#4 \| `O`: B4 \| `P`: C5 |
+| **Middle** | `A`: D#3 \| `S`: E3 \| `D`: F3 \| `F`: F#3 \| `G`: G3 \| `H`: G#3 \| `J`: A3 \| `K`: A#3 \| `L`: B3 \| `;`: C4 \| `'`: C#4 \| `\`: D4 |
+| **Bottom** | `Z`: F2 \| `X`: F#2 \| `C`: G2 \| `V`: G#2 \| `B`: A2 \| `N`: A#2 \| `M`: B2 \| `,`: C3 \| `.`: C#3 \| `/`: D3 |
 
 - **Pitch**: Transpose the entire engine (-24 to +24 semitones).
 - **Vel Rand**: Adds organic velocity variation to triggered chords.
