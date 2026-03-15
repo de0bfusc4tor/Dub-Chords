@@ -43,7 +43,7 @@
 1. Download the latest [`DubChords.component.zip`](https://github.com/de0bfusc4tor/Dub-Chords/releases/download/DubChords1.0.1/DubChords.component.zip)
 2. Extract & Copy `Dubchords.component` to `/Library/Audio/Plug-Ins/Components`.
 3. Rescan plugins in Ableton Live 12.
-4. Create a MIDI track & Load `Dub Chords` onto the MIDI track begin playing.
+4. Create a MIDI track & Load `Dub Chords` onto the MIDI track and begin playing.
 
 ### 𝐕𝐒𝐓𝟑 (𝐀𝐛𝐥𝐞𝐭𝐨𝐧 𝟏𝟐)
 1. Download the latest [`DubChords.vst3.zip`](https://github.com/de0bfusc4tor/Dub-Chords/releases/download/DubChords1.0.1/DubChords.vst3.zip)
