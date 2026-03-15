@@ -37,7 +37,7 @@
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
 1. Download the latest [`Dub.Chords1.0.1.app.zip`](https://github.com/de0bfusc4tor/Dub-Chords/releases/download/DubChords1.0.1/DubChords1.0.1.app.zip)
 2. Extract & Drag to your `Applications` folder.
-3. Open `Dub Chords`.
+3. Open `Dub Chords` and begin playing.
 
 ### 𝐀𝐮𝐝𝐢𝐨 𝐔𝐧𝐢𝐭 (𝐀𝐔) (𝐀𝐛𝐥𝐞𝐭𝐨𝐧 𝟏𝟐)
 1. Download the latest [`DubChords.component.zip`](https://github.com/de0bfusc4tor/Dub-Chords/releases/download/DubChords1.0.1/DubChords.component.zip)
